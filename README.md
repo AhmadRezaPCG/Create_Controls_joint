@@ -9,6 +9,6 @@ for run it see below guide:
 2_paste (from Primitive_nurbs.Script_py_file.main_create_curve import main_primitivenurbs_class;main_primitivenurbs_class.show_dialog()) code onto the maya script editor and run it .
 
 
-I hope you enjoy and use it .
+I hope you to enjoy and use it .
 
 insta : ahmadrr_cg99
