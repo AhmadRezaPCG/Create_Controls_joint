@@ -1,3 +1,20 @@
+###############################################################################
+# Name: 
+#   Create Controls joint
+#
+# Description: 
+#     I have created this script for save and create nurbs easily . 
+#     You can save your custome nurbs and later use that.
+#     It gave us to create multi controller for different joint .
+#       
+#   
+#
+# Author: 
+#   Ahmadreza Rezaei
+#
+# Copyright (C) 2022 Ahmadreza Rezaei. All rights reserved.
+###############################################################################
+
 from functools import partial
 from .save_file import save_file_class
 import maya.cmds as cmds
