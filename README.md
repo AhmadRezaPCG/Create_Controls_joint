@@ -1,6 +1,6 @@
 # Create_Controls_joint
 
-This script is for maya to create ctl or save a new nurbs shape and after use that  .
+This script is for maya to create ctl or save a new nurbs shape and later use that  .
 
 you can use this scrpt in python 2.
 
