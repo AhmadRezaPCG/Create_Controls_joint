@@ -5,7 +5,7 @@
 # Description: 
 #     I have created this script for save and create nurbs easily . 
 #     You can save your custome nurbs and later use that.
-#     It gave us to create multi controller for different joint .
+#     It allows you to create multi controller for different joint .
 #       
 #   
 #
